@@ -129,3 +129,35 @@ max-width:800px;
 margin:auto;
 font-size:18px;
 }
+.stats{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+gap:20px;
+padding:50px;
+background:#0a2240;
+color:white;
+text-align:center;
+}
+
+.stat-box h3{
+font-size:40px;
+color:#d4af37;
+}
+header{
+position:sticky;
+top:0;
+z-index:1000;
+background:#0a2240;
+box-shadow:0 2px 10px rgba(0,0,0,0.2);
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin-left:25px;
+font-weight:600;
+}
+
+nav a:hover{
+color:#d4af37;
+}
