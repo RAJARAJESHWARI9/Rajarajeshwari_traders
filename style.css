@@ -161,3 +161,13 @@ font-weight:600;
 nav a:hover{
 color:#d4af37;
 }
+.secondary-btn{
+display:inline-block;
+margin-left:15px;
+background:#d4af37;
+color:#fff;
+padding:12px 24px;
+text-decoration:none;
+border-radius:5px;
+font-weight:bold;
+}
