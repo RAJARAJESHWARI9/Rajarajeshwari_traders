@@ -111,3 +111,21 @@ margin:auto;
 margin-top:20px;
 opacity:0.8;
 }
+#world-map{
+text-align:center;
+padding:60px 20px;
+background:#f8f9fb;
+}
+
+.world-map{
+max-width:100%;
+width:900px;
+margin:20px auto;
+display:block;
+}
+
+.world-text{
+max-width:800px;
+margin:auto;
+font-size:18px;
+}
